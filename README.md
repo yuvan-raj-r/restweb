@@ -325,4 +325,4 @@ contact
 ![alt text](<Screenshot 2025-12-26 104801.png>)
 
 ## RESULT:
-The program for designing software company website using HTML and CSS is completed successfully.
+The program for designing RESTAURANT website using HTML and CSS is completed successfully.
